@@ -5,6 +5,6 @@ A video tour set in Holberton School San Francesco campus for Google Cardboard w
 ![Alt Text](example1.gif)<br>
 
 # Build
-[Android](https://drive.google.com/file/d/13T3jkbXQVYpSjg_tfuDB3VKCyhJUKtDP/view?usp=sharing)
+* [Android](https://drive.google.com/file/d/13T3jkbXQVYpSjg_tfuDB3VKCyhJUKtDP/view?usp=sharing)
 # Attributions
 "[Tech Live](https://incompetech.filmmusic.io/song/4463-tech-live/)" by Kevin MacLeod
