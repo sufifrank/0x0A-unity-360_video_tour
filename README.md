@@ -9,3 +9,6 @@ This is my first VR unity project. I tried developing it with both the Oculus Qu
 * [Android](https://drive.google.com/file/d/13T3jkbXQVYpSjg_tfuDB3VKCyhJUKtDP/view?usp=sharing)
 # Attributions
 * "[Tech Live](https://incompetech.filmmusic.io/song/4463-tech-live/)" by Kevin MacLeod
+# Links
+* [Linkdin](https://www.linkedin.com/in/aziz-ayed-20a462192/)
+* [Twitter](https://twitter.com/frank2point4ghz)
